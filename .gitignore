@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+__pycache__/
+
+# Logs
+*.log
+
+# Datasets
+dataset/
+dataset_v1/
+
+# Images, videos and figures
+*.jpg
+*.png
+*.mp4
+figuras_reporte/
+
+# Temp files
+_minted/
+CONTEXTO_PROYECTO_DRON_POSE.txt
